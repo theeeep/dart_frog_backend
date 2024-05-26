@@ -1,5 +1,5 @@
 import 'package:dart_frog/dart_frog.dart';
 
 Response onRequest(RequestContext context) {
-  return Response(body: 'Less Goo!');
+  return Response(body: "I'm from new Route");
 }
